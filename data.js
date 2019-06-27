@@ -86,4 +86,8 @@ const favoriteMovies = [
 // comit
 
 
-git log 
+// git log 
+
+// Este es el codigo que hizo jonh, se que no describe nada pero es solo para ver que si pasa algo 
+
+// x2
