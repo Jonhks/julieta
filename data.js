@@ -72,17 +72,18 @@ const favoriteMovies = [
 ];
 
 
-git init 
-git remote add origin miurl
-git remote add upstream master-url
-git status
-git add ./ git add -A / git add README.md
-git commit -m "comentario"
-git push origin dev
-git pull origin master
-git pull upstream master
-git fetch origi
-git merge origin/master
+// git init 
+// git remote add origin miurl
+// git remote add upstream master-url
+// git status
+// git add ./ git add -A / git add README.md
+// git commit -m "comentario"
+// git push origin dev
+// git pull origin master
+// git pull upstream master
+// git fetch origi
+// git merge origin/master
+// comit
 
 
 git log 
